@@ -23,7 +23,7 @@
 |  ID  | Título                    | Descrição                                                                        | 
 | ---- | ------------------------- | ---------------------------------------------------------------------------------| 
 |  01  | WebServer Apache2 - PHP     | Criação de um Servidor Web  com páginas em PHP               |
-|  02  | Redirecionamentos de Domínios     | Realizar Redirecionamentos de Domínios de Diferentes Formas               |
+|  02  | Redirecionamentos de Domínios     | Realizar Redirecionamentos de Domínios com Nginx e Apache2           |
 
 
 </div> 
