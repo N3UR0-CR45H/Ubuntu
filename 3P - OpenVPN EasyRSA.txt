@@ -28,7 +28,7 @@
 		ca /keys/ca.crt
 		cert /keys/issued/server.crt
 		key /keys/private/server.key
-	    dh none 
+	        dh none 
 		
 		server 10.8.0.0 255.255.255.0
 		ifconfig-pool-persist ipp.txt
@@ -77,7 +77,13 @@
 		
   2.7 nohup openvpn --config ./host.ovpn &
  
-  2.8 ssh (Usuário)@(Servidor VPN)  
+  2.8 ifconfig  (Pra verificar se a interface de rede da VPN aparece)
+  2.9 ping (IP da VPN do Servidor)
+
+  2.10 killall openvpn 
+
+  2.11 ifconfig (Pra verificar se a interface de rede da VPN desapareceu)
+  2.12 ping (IP da VPN do Servidor) - Pra ver se não encontra mais 
   
  
  
