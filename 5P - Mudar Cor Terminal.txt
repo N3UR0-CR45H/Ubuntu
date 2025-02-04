@@ -21,7 +21,7 @@ highlight Variable ctermfg=green
 
 
 
-# Anotações 
+# Anotações (O mesmo vale para WSL)
 
 -- Cores para PS1:
 
