@@ -1,7 +1,8 @@
 ----
 
 <div align="Center"> 
-<a href="https://github.com/n3urocr45h/Ubuntu/blob/main/Ubuntu.png"><img src="https://github.com/n3urocr45h/Ubuntu/blob/main/Ubuntu.png">
+<a href="https://github.com/n3ur0cr45h/Ubuntu/blob/main/Ubuntu.png"> <img src="https://raw.githubusercontent.com/n3ur0cr45h/Ubuntu/main/Ubuntu.png" alt="Ubuntu Image">
+</a>
 </div> 
 
 ----
