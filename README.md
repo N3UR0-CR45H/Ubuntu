@@ -21,7 +21,7 @@
 |  04  | Servidor Samba | Criar um Servidor Samba e tentar a conexão / alteração via Cliente Windows  | 
 |  05  | Mudar Cor do Terminal | Mudar a cor do terminal e das informações que aparecem no terminal  | 
 |  06  | Automação Backup c/ RSync | Realizar Múltiplos Backups em Diretórios Diferentes com RSync  | 
-|  07  | Instalação Nagios | Instalar e configurar com sucesso o Nagios para iniciar o monitoramento   | 
+|  07  | Instalação e Configuração Nagios | Instalar e configurar com sucesso o Nagios para iniciar o monitoramento   | 
 
 
 </div> 
